@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    background-image: url(assets/spider-man-remastered-new-peter-parker-ps5-details-f_s3xn.webp);
+    background-repeat:no-repeat; ;
+    color: white;
+}
+
+img{
+    height: 300px;
+    border: 5px solid white;
+    border-radius: 50px;
+
+}
+p{
+    color: #ffffff;
+    
+}
+
+h1{
+    color: #ffffff;
+    font-size: 50px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 100px;
+}
